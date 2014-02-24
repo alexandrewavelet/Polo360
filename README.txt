@@ -8,8 +8,8 @@
 
 === Voir en ligne ===
 
-Front-end : http://www.alexandrewavelet.fr/polo360/concrete
+Front-end : http://www.alexandrewavelet.fr/polo360/
 
-Admin : http://www.alexandrewavelet.fr/polo360/concrete/index.php/login
+Admin : http://www.alexandrewavelet.fr/polo360/index.php/login
 login : admin
 mot de passe : azerty 
