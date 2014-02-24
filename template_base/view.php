@@ -1,5 +1,5 @@
 <?php 
-	// Conrete : $this->inc('elements/header.php'); 
+	// Concrete : $this->inc('elements/header.php'); 
 	include('elements/header.php');
 ?>
 
@@ -7,13 +7,13 @@
 	<div class="pure-u-2-24"></div>
 
 	<div class="pure-u-20-24">
-		
+		<?php // Concrete print $innerContent; ?>
 	</div>
 
 	<div class="pure-u-2-24"></div>
 </div>
 
 <?php 
-	// Conrete : $this->inc('elements/footer.php'); 
+	// Concrete : $this->inc('elements/footer.php'); 
 	include('elements/footer.php');
 ?>

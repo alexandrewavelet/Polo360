@@ -41,6 +41,10 @@
 	border-radius:10px;
 }
 
+.colonne, .colonneSocial{
+	text-align: justify;
+}
+
 .contenuColonne{
 	padding: 15px;
 }
@@ -94,7 +98,7 @@
 	width: 90%;
 }
 
-.colonneSocial button, .colonneSocial input[type="submit"]{
+.colonneSocial button, .colonneSocial input[type="submit"], .pure-form input[type="submit"]{
 	color: #ececec;
 	display: block;
 	-moz-border-radius: 5px;
@@ -158,4 +162,10 @@
 
 .texteDroite{
 	text-align: right;
+}
+
+.youtubeBlock{
+	text-align: center;
+	margin: auto;
+	margin-bottom: 10px;
 }
