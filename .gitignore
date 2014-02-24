@@ -16,7 +16,6 @@ local.properties
 .settings/
 .loadpath
 concrete/
-whale_nivo_slider/
 
 # External tool builders
 .externalToolBuilders/
